@@ -13,7 +13,9 @@ public final class SkilMon {
     public ArrayList<String> Abilities, Moves, Types;
 
 
+    public SkilMon(String jsonf) {
 
+    }
 
 }
 

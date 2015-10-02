@@ -5,7 +5,7 @@ import skilstak.skilmon.SkilMon;
 public class TestSkilMon {
 
     public static void main(String[] args) {
-        SkilMon s = new SkilMon();
+        SkilMon s = new SkilMon("MyNameJeff.json");
         System.out.println(c.rc() + "Speed:          " + s.speed);
         System.out.println(c.rc() + "Attack:         " + s.attack);
         System.out.println(c.rc() + "Special Attack: " + s.spAttack);
