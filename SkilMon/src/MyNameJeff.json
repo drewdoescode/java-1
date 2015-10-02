@@ -1,0 +1,32 @@
+{
+  "name": "MyNameJeff",
+  "uid": "1",
+  "abilities": [ "MyNameJeffSTAB", "ILikeTOURTALS"],
+  "types": [ "BRUHHHHHHH", "GET REKT NOOB"],
+  "moves": ["SHART", "FLEM", "DEVOPLER"],
+  "description": "HE GOES LIKE My Name S JEFF and then rexs u",
+  "attack": 1000,
+  "sp_attack": 1000,
+  "defense": 1000,
+  "sp_defense": 1000,
+  "species": "Memes",
+  "speed": 1000,
+  "total": 5000,
+  "catch_rate": 102398,
+  "ev yeild": "120398 Sp Atk",
+  "evolutions": [
+   {
+    "level": 16,
+    "method": "Level Up",
+    "to": "I LIKE TOURTALS"
+   }
+  ],
+  "exp": 100000,
+  "growth_rate": "ms"
+  "happiness": 1,
+  "height": 1,
+  "eight": 6.9,
+  "hp": 90000,
+  "mf_ratio": 88.2
+}
+
