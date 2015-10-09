@@ -5,7 +5,7 @@ import java.util.List;
 
 
 public class eightball {
-    private static String[] list = {"Yes.","No.","Maybe."};    
+    private static String[] list = {"Yes.","No.","Maybe.","MY NAME JEFF"};    
     
      
     
